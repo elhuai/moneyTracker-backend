@@ -2,6 +2,8 @@
 
 基於 Node.js 與 Google Sheets API 的記帳系統後端服務。
 
+> 🔗 **前端專案**: [moneyTracker-frontend](https://github.com/elhuai/moneyTracker-frontend)
+
 ## 功能特色
 
 - 🚀 **Express 伺服器**：輕量高效的 RESTful API
@@ -112,6 +114,8 @@ node app.js
 ## English
 
 A backend service for expense tracking system built with Node.js and Google Sheets API.
+
+> 🔗 **Frontend Project**: [moneyTracker-frontend](https://github.com/elhuai/moneyTracker-frontend)
 
 ### Features
 
